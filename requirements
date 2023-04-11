@@ -1,0 +1,4 @@
+requests
+fake_headers
+bs4
+lxml
